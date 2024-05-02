@@ -14,6 +14,8 @@ var_dump([
     "jurusan" => "Teknik Informatika",
 ]);
 
+echo PHP_EOL;
+echo PHP_EOL;
 class Orang
 {
     public function __construct(public String $nama = "nova", public String $jurusan = "Teknik Informatika", )
