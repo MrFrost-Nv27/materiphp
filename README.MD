@@ -1,3 +1,3 @@
 # Fundamental
-	## Tipe Data
-	## Variabel
+## Tipe Data
+## Variabel
