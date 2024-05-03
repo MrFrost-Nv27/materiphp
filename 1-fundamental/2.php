@@ -25,6 +25,17 @@ $variabel = "Nova";
 var_dump($variabel);
 echo PHP_EOL;
 
+// Global Variable
+echo '$GLOBALS Variabel : ' . PHP_EOL;
+var_dump($GLOBALS);
+echo '$_GET : ' . PHP_EOL;
+var_dump($_GET);
+echo '$_POST : ' . PHP_EOL;
+var_dump($_POST);
+echo '$_REQUEST : ' . PHP_EOL;
+var_dump($_REQUEST);
+echo PHP_EOL;
+
 // String Literal dan
 // Contoh Penggunaan Variabel Sederhana
 echo "Nama Saya Adalah " . $variabel;
